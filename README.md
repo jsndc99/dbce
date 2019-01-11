@@ -1,6 +1,11 @@
 # dbce
 Sample codes and setup files for DBCE students 
 
+**EDIT :**
+
+Download Visual Studio Code from (https://code.visualstudio.com/) and Git Bash from (https://gitforwindows.org/). Install these two.
+
+
 **Setup Instructions :**
 
 
